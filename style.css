@@ -67,3 +67,6 @@ body {
 #btn-div {
     margin: 0% 0% 0% 9.2%;
 }
+p {
+    word-wrap: break-word;
+}
