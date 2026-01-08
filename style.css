@@ -7,6 +7,7 @@ body {
     border-radius: 5px;
     padding: 2% 3% 2% 3%;
     margin: 1%;
+    border: 2px solid black;
 }
 #bg-color {
     color: black;
@@ -14,6 +15,7 @@ body {
     border-radius: 5px;
     padding: 2% 3% 2% 3%;
     margin: 1%;
+    border: 2px solid black;
 }
 #block {
     color: black;
@@ -21,6 +23,7 @@ body {
     border-radius: 5px;
     padding: 2% 3% 2% 3%;
     margin: 1%;
+    border: 2px solid black;
 }
 #small {
     color: black;
@@ -28,6 +31,7 @@ body {
     border-radius: 5px;
     padding: 2% 3% 2% 3%;
     margin: 1%;
+    border: 2px solid black;
 }
 #bold {
     color: black;
@@ -35,6 +39,7 @@ body {
     border-radius: 5px;
     padding: 2% 3% 2% 3%;
     margin: 1%;
+    border: 2px solid black;
 }
 #italic {
     color: black;
@@ -42,6 +47,7 @@ body {
     border-radius: 5px;
     padding: 2% 3% 2% 3%;
     margin: 1%;
+    border: 2px solid black;
 }
 #underline {
     color: black;
@@ -49,6 +55,7 @@ body {
     border-radius: 5px;
     padding: 2% 3% 2% 3%;
     margin: 1%;
+    border: 2px solid black;
 }
 #box {
     margin: 10% 10% 3% 10%;
