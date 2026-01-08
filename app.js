@@ -1,19 +1,17 @@
 var askstate =prompt('Type Something!')
-var box = document.getElementById('box')
+var box = document.getElementById('text')
 var stateText = document.createTextNode(askstate)
-box.appendChild(stateText);
+text.appendChild(stateText);
 
 function raw(){
     box.style.backgroundColor = '';
-    box.style.border = '';
     box.style.textDecoration = '';
     box.style.fontStyle = '';
     box.style.fontWeight = '';
     box.style.textTransform = '';
 }
 function bgcolor(){
-    box.style.backgroundColor = 'grey';
-    box.style.border = '2px solid black';
+    box.style.backgroundColor = 'silver';
     box.style.textDecoration = '';
     box.style.fontStyle = '';
     box.style.fontWeight = '';
@@ -21,7 +19,6 @@ function bgcolor(){
 }
 function block(){ 
     box.style.backgroundColor = "";
-    box.style.border = "";
     box.style.textDecoration = '';
     box.style.fontStyle = '';
     box.style.fontWeight = '';
@@ -29,7 +26,6 @@ function block(){
 }
 function small(){
     box.style.backgroundColor = "";
-    box.style.border = "";
     box.style.textDecoration = '';
     box.style.fontStyle = '';
     box.style.fontWeight = '';
@@ -37,7 +33,6 @@ function small(){
 }
 function bold(){
     box.style.backgroundColor = "";
-    box.style.border = "";
     box.style.fontStyle = '';
     box.style.textTransform = '';
     box.style.textDecoration = '';
@@ -45,7 +40,6 @@ function bold(){
 }
 function italic(){
     box.style.backgroundColor = "";
-    box.style.border = "";
     box.style.textTransform = '';
     box.style.fontWeight = '';
     box.style.textDecoration = '';
@@ -53,7 +47,6 @@ function italic(){
 }
 function underline(){
     box.style.backgroundColor = "";
-    box.style.border = "";
     box.style.textTransform = '';
     box.style.fontWeight = '';
     box.style.fontStyle = '';
