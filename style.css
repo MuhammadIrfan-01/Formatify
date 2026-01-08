@@ -54,6 +54,8 @@ body {
     margin: 10% 10% 3% 10%;
     padding: 10% 21% 10% 21%;
     border-radius: 5px;
+    background-color: grey;
+    border: 2px solid black;
 }
 #btn-div {
     margin: 0% 0% 0% 9.2%;
